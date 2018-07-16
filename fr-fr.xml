@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE resources [<!ENTITY appname "must echo through">]>
 <resources custom-attribute="must-be-present-in-translated-file">
-    <string name="keyCOOLEST">Le [[quick]] renard brun A4206890328168382111 a sauté par-dessus le chien paresseux. LAZY LOL COOL</string>
+    <string name="keyCOOLESToneEVER">Le [[quick]] renard brun A4206890328168382111 a sauté par-dessus le chien paresseux. LAZY LOL COOL</string>
     <string name="key-2">Vous ne regardez pas un cheval-cadeau \n En bouche</string>
     <!-- Comment on It's ducks all the way down. -->
     <string name="key-3">C\'est canard tout le long.</string>
@@ -14,5 +14,5 @@
         <item>le reste</item>
     </string-array>
     <string name="key-0"></string>
-    <string name="segment-with-qoutationmarsk">".  qoute unique et un double qoute \"hey   "</string>
+    <string name="segment-with-qoutationmarsk">". qoute unique et un double qoute \"hey   "</string>
 </resources>
