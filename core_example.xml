@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE resources [<!ENTITY appname "must echo through">]>
 <resources custom-attribute="must-be-present-in-translated-file">
-    <string name="keyCOOLEST">The [[quick]] brown fox jumped over the lazy dog. OH SO COOL</string>
+    <string name="keyCOOLEST">The [[quick]] brown fox jumped over the lazy dog. OH SO COOL!</string>
     <string name="key-2">You don\'t look a gift horse \n In the mouth</string>
     <!-- Comment on It's ducks all the way down. -->
     <string name="key-3">It\'s ducks all the way down.</string>
